@@ -155,3 +155,7 @@ We get the flag! That it!
 ```
 FwordCTF{W00w_KuR0ko_T0ld_M3_th4t_Th1s_1s_M1sdirecti0n_BasK3t_FTW}
 ```
+
+## Intended Solution
+The author of challenge said the intended solution is run a terraform script to xfiltrate the flag:
+https://discord.com/channels/736202333863542826/881404600496820294/881412916224614400
